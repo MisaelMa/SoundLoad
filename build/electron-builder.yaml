@@ -1,0 +1,11 @@
+directories:
+  output: build
+  buildResources: build
+productName: soundload
+appId: org.simulatedgreg.electron-vue
+files:
+  - dist/electron/**/*
+linux:
+  target:
+    - deb
+electronVersion: 1.8.8

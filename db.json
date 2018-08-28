@@ -1,0 +1,141 @@
+{
+  "config": [
+    {
+      "id": 1,
+      "start": false
+    },
+    {
+      "id": 2,
+      "directory": "/usr/share/sounds/deepin/stereo",
+      "root": ""
+    }
+  ],
+  "files": [
+    {
+      "id": 1,
+      "file": "audio-volume-change.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 2,
+      "file": "camera-shutter.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 3,
+      "file": "complete-copy.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 4,
+      "file": "complete-print.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 5,
+      "file": "desktop-login.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 6,
+      "file": "desktop-logout.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 7,
+      "file": "device-added.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 8,
+      "file": "device-removed.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 9,
+      "file": "dialog-error-critical.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 10,
+      "file": "dialog-error-serious.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 11,
+      "file": "dialog-error.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 12,
+      "file": "message.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 13,
+      "file": "power-plug.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 14,
+      "file": "power-unplug-battery-low.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 15,
+      "file": "power-unplug.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 16,
+      "file": "screen-capture-complete.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 17,
+      "file": "screen-capture.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 18,
+      "file": "suspend-resume.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 19,
+      "file": "system-shutdown.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 20,
+      "file": "trash-empty.wav",
+      "change": false,
+      "oldfile": null
+    },
+    {
+      "id": 21,
+      "file": "x-deepin-app-sent-to-desktop.wav",
+      "change": false,
+      "oldfile": null
+    }
+  ]
+}
